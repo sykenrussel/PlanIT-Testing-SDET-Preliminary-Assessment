@@ -4,9 +4,8 @@ Repository for the 2 code challenges and automation test cases
 PREREQUISITES:
  * Python is installed and is in the user root directory (for Windows)
  * Python Pandas is installed (if not, run the command: 'pip install pandas' in the terminal)
- * 
-
-Hello hiring manager/technical manager,
+ 
+ Hello hiring manager/technical manager,
 
 I chose Challenge #2 and #7
 For challenge #2, this is pretty straightforward as it does not have much flexibility compared to the the other challenges.
